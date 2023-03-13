@@ -1,5 +1,5 @@
 # url_phishing_checker
-A simple tool that can help you to analyze a suspect phishing url.
+A simple tool in italian language that can help you to analyze a suspect phishing url.
 
 This is just a proof of concept of how you shoul start ti analyze a suspected phishing URL, it's not very useful for real cases.
 It's easy to add more verifications if you want.
